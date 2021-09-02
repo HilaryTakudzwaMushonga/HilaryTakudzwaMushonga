@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hilaryTakudzwa
+- 👋 Hi, I’m @HilaryTakudzwaMushonga
 - 👀 I’m interested in using python for analysing spatial data
 - 🌱 I’m currently learning Python, Spatial Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Python application in analysis of spatial data
